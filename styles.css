@@ -1,0 +1,21 @@
+body {
+  padding: 0;
+  margin: 0;
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+.btn-grid{
+  display:grid;
+  gap:1px;
+}
+.btn{
+  background-color: lightblue;
+  border:2px solid
+}
+.btn:hover{
+  background-color:gray;
+}
+
